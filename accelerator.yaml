@@ -1,0 +1,15 @@
+accelerator:
+  displayName: ts test
+  description: ""
+  iconUrl: https://www.terasky.com/wp-content/uploads/2021/05/TeraSkay-Logo-new-01.png
+  tags:
+  - test
+  - logo
+  options:
+  - name: optionName
+    label: Nice Label
+    display: true
+    defaultValue: ""
+engine:
+  include:
+  - '**'
